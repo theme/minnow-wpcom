@@ -1,0 +1,263 @@
+# Translation of Minnow in Sinhala
+# This file is distributed under the same license as the Minnow package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-03-16 01:59:24+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: Minnow\n"
+
+#: header.php:43
+msgid "Menu"
+msgstr "මෙනුව"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/minnow/style.css
+msgid "Minnow is designed to put your social presence front and center by displaying your social links menu prominently below the site title and logo, so readers can easily find you on your favorite social networks."
+msgstr ""
+
+#: inc/template-tags.php:125
+msgid "All %s posts"
+msgstr "සියළු %s ලිපි"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "%s සඳහා සෙවුම් ප්‍රතිඵල"
+
+#: inc/template-tags.php:98
+msgid "1 Comment"
+msgstr "එක් ප්‍රතිචාරයක්"
+
+#: inc/template-tags.php:98
+msgid "% Comments"
+msgstr "ප්‍රතිචාර %"
+
+#: inc/template-tags.php:98
+msgid "Leave a comment"
+msgstr "ප්‍රතිචාරයක් ලබාදෙන්න"
+
+#: inc/template-tags.php:55
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+
+#: inc/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:90
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:52
+msgid "Post navigation"
+msgstr "ලිපියේ යාත්‍රණය"
+
+#: inc/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "මෑත ලිපි <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "ලිපි යාත්‍රණය"
+
+#: inc/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> පැරණි ලිපි"
+
+#: inc/extras.php:145
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s දින %2$s ට"
+
+#: inc/extras.php:137
+msgid "Your comment is awaiting moderation."
+msgstr "ඔබේ ප්‍රතිචාරය අනුමත කිරීම බලාපොරොත්තුවෙන් සිටී"
+
+#: inc/extras.php:60
+msgid "Page %s"
+msgstr "%s පිටුව"
+
+#: inc/extras.php:133
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">පවසයි:</span>"
+
+#: header.php:22
+msgid "Skip to content"
+msgstr "අන්තර්ගතය වෙත පනින්න"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Open Sans, translate this to 'off'. Do not translate
+#. * into your own language.
+#: functions.php:123
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "off"
+
+#. Translators: If there are characters in your language that are not
+#. * supported by Open Sans Condensed, translate this to 'off'. Do not
+#. translate
+#. * into your own language.
+#: functions.php:129
+msgctxt "Open Sans Condensed font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:43
+msgid "Social Links"
+msgstr "සමාජ සබැඳි"
+
+#: functions.php:78 header.php:39
+msgid "Sidebar"
+msgstr "පැති පුවරුව"
+
+#: functions.php:42
+msgid "Primary Menu"
+msgstr "ප්‍රාථමික මෙනුව"
+
+#: footer.php:17
+msgid "Theme: %1$s by %2$s."
+msgstr "තේමාව: %2$s ගෙන එන %1$s."
+
+#. translators: %s: Name of current post
+#: content.php:27
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s දිගටම කියවන්න <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:15
+msgid "http://wordpress.org/"
+msgstr "http://si.wordpress.org/"
+
+#: footer.php:15
+msgid "Proudly powered by %s"
+msgstr "%s විසින් සාඩම්බරයෙන් බලගැන්වෙයි"
+
+#: content-page.php:25 inc/extras.php:148 inc/template-tags.php:102
+msgid "Edit"
+msgstr "සංස්කරණය"
+
+#: content-page.php:18 content-single.php:21 content.php:34
+msgid "Pages:"
+msgstr "පිටු:"
+
+#: content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "කණගාටුයි, නමුත් ඔබේ සෙවුම් වදන් සමඟ කිසිවක් ගැලපුණේ නැත. කරුණාකර වෙනස් යතුරුවදන් කිහිපයක් භාවිත කර නැවත උත්සාහ කරන්න."
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "කිසිවක් හමු නොවුණි"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "ප්‍රතිචාර වසා ඇත."
+
+#: comments.php:48
+msgid "Reply"
+msgstr "පිළිතුරු සැපයීම"
+
+#: comments.php:36 comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; පැරණි ප්‍රතිචාර"
+
+#: comments.php:37 comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "නව ප්‍රතිචාර &rarr;"
+
+#: comments.php:35 comments.php:55
+msgid "Comment navigation"
+msgstr "ප්‍රතිචාර යාත්‍රණය"
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; වෙත එක් සිතුවිල්ලක්"
+msgstr[1] "&ldquo;%2$s&rdquo; වෙත සිතුවිලි %1$sක්"
+
+#: archive.php:63
+msgid "Chats"
+msgstr "සල්ලාප"
+
+#: archive.php:66
+msgid "Archives"
+msgstr "ලේඛනාගාරය"
+
+#: archive.php:57
+msgid "Statuses"
+msgstr ""
+
+#: archive.php:60
+msgid "Audios"
+msgstr "හඬ පට"
+
+#: archive.php:54
+msgid "Links"
+msgstr "සබැඳුම්"
+
+#: archive.php:51
+msgid "Quotes"
+msgstr "උද්ධෘත"
+
+#: archive.php:48
+msgid "Videos"
+msgstr "වීඩියෝ"
+
+#: archive.php:42
+msgid "Galleries"
+msgstr "කලාගාර"
+
+#: archive.php:45
+msgid "Images"
+msgstr "රූපක"
+
+#: archive.php:39
+msgid "Asides"
+msgstr ""
+
+#: archive.php:36
+msgid "Year: %s"
+msgstr "වසර: %s"
+
+#: archive.php:36
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:33
+msgid "Month: %s"
+msgstr "මාසය: %s"
+
+#: archive.php:33
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:27
+msgid "Author: %s"
+msgstr "කර්තෘ: %s"
+
+#: archive.php:30
+msgid "Day: %s"
+msgstr "දිනය: %s"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "අපොයි! එම පිටුව සොයාගත නොහැක."

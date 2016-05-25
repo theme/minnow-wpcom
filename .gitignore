@@ -1,3 +1,6 @@
+**tags
+*.png
+
 *.log
 .htaccess
 sitemap.xml
